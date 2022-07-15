@@ -1,0 +1,175 @@
+mltlyr input feature: 1536
+ar
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 45.42168674698795}
+bg
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 45.06024096385542}
+de
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 46.34538152610442}
+el
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 45.34136546184739}
+es
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 3, 'accuracy': 47.30923694779116}
+fr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 47.911646586345384}
+hi
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.45783132530121}
+ru
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.65863453815261}
+sw
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 1, 'accuracy': 41.12449799196787}
+th
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.899598393574294}
+tr
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 4, 'accuracy': 46.06425702811245}
+ur
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 3, 'accuracy': 42.48995983935743}
+vi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 49.23694779116466}
+zh
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 48.0722891566265}
+
+siglyr input feature: 1536
+ar
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 1, 'accuracy': 45.82329317269076}
+bg
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.81927710843374}
+de
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 46.5863453815261}
+el
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.41767068273092}
+es
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 47.59036144578313}
+fr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 47.791164658634536}
+hi
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.65863453815261}
+ru
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 44.69879518072289}
+sw
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 41.76706827309237}
+th
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 1, 'accuracy': 43.89558232931727}
+tr
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'accuracy': 45.06024096385542}
+ur
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 1, 'accuracy': 42.1285140562249}
+vi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 48.393574297188756}
+zh
+{'learning_rate': 0.0001, 'dropout': 0.1, 'epoch': 4, 'accuracy': 48.47389558232932}
+mltlyr input feature: 3072
+ar
+{'learning_rate': 1e-05, 'dropout': 0.2, 'epoch': 4, 'accuracy': 46.3855421686747}
+bg
+{'learning_rate': 1e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 47.51004016064257}
+de
+{'learning_rate': 1e-05, 'dropout': 0.3, 'epoch': 4, 'accuracy': 46.98795180722892}
+el
+{'learning_rate': 5e-05, 'dropout': 0.3, 'epoch': 3, 'accuracy': 46.34538152610442}
+es
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 2, 'accuracy': 47.99196787148595}
+fr
+{'learning_rate': 1e-05, 'dropout': 0.3, 'epoch': 4, 'accuracy': 46.10441767068273}
+hi
+{'learning_rate': 1e-05, 'dropout': 0.3, 'epoch': 4, 'accuracy': 43.6144578313253}
+ru
+{'learning_rate': 1e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 45.34136546184739}
+sw
+{'learning_rate': 5e-05, 'dropout': 0.3, 'epoch': 4, 'accuracy': 41.967871485943775}
+th
+{'learning_rate': 0.0001, 'dropout': 0.3, 'epoch': 3, 'accuracy': 41.00401606425703}
+tr
+{'learning_rate': 1e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 46.506024096385545}
+ur
+{'learning_rate': 1e-05, 'dropout': 0.2, 'epoch': 4, 'accuracy': 41.84738955823293}
+vi
+{'learning_rate': 1e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 49.397590361445786}
+zh
+{'learning_rate': 1e-05, 'dropout': 0.2, 'epoch': 4, 'accuracy': 48.674698795180724}
+siglyr input feature: 3072
+ar
+{'learning_rate': 5e-05, 'dropout': 0.2, 'epoch': 2, 'accuracy': 46.144578313253014}
+bg
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 46.70682730923695}
+de
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 48.433734939759034}
+el
+{'learning_rate': 5e-05, 'dropout': 0.2, 'epoch': 4, 'accuracy': 46.78714859437751}
+es
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 48.55421686746988}
+fr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 46.22489959839358}
+hi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 44.57831325301205}
+ru
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 45.261044176706825}
+sw
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 4, 'accuracy': 41.64658634538153}
+th
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 2, 'accuracy': 41.36546184738956}
+tr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 47.269076305220885}
+ur
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 41.606425702811244}
+vi
+{'learning_rate': 5e-05, 'dropout': 0.2, 'epoch': 4, 'accuracy': 49.51807228915663}
+zh
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 3, 'accuracy': 48.95582329317269}
+ input feature: 1536
+ar
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'layer': 'siglyr', 'accuracy': 46.10441767068273}
+bg
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 8.5, 'layer': 'siglyr', 'accuracy': 47.2289156626506}
+de
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 3, 'layer': 'siglyr', 'accuracy': 47.83132530120482}
+el
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 3, 'layer': 'siglyr', 'accuracy': 46.30522088353413}
+es
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 49.51807228915663}
+fr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 8, 'layer': 'siglyr', 'accuracy': 48.95582329317269}
+hi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 8.5, 'layer': 'siglyr', 'accuracy': 45.261044176706825}
+ru
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 5.5, 'layer': 'siglyr', 'accuracy': 46.265060240963855}
+sw
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 7, 'layer': 'siglyr', 'accuracy': 41.36546184738956}
+th
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'layer': 'siglyr', 'accuracy': 44.899598393574294}
+tr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 5.5, 'layer': 'siglyr', 'accuracy': 48.11244979919679}
+ur
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 3, 'layer': 'siglyr', 'accuracy': 43.092369477911646}
+vi
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 4, 'layer': 'siglyr', 'accuracy': 49.23694779116466}
+zh
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9, 'layer': 'siglyr', 'accuracy': 48.75502008032129}
+ input feature: 3072
+ar
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 48.35341365461847}
+bg
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 50.200803212851405}
+de
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 51.325301204819276}
+el
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 50.602409638554214}
+es
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 53.25301204819277}
+fr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 51.325301204819276}
+hi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 8.5, 'layer': 'siglyr', 'accuracy': 47.630522088353416}
+ru
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 48.99598393574297}
+sw
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 44.17670682730924}
+th
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 8.5, 'layer': 'siglyr', 'accuracy': 45.78313253012048}
+tr
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 49.3574297188755}
+ur
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 7.5, 'layer': 'siglyr', 'accuracy': 43.93574297188755}
+vi
+{'learning_rate': 5e-05, 'dropout': 0.1, 'epoch': 9.5, 'layer': 'siglyr', 'accuracy': 52.7710843373494}
+zh
+{'learning_rate': 0.0005, 'dropout': 0.1, 'epoch': 8.5, 'layer': 'siglyr', 'accuracy': 51.64658634538153}
