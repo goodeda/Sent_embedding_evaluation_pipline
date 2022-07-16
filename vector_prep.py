@@ -25,8 +25,9 @@ def vectors2feature(vector1, vector2):
     the concatenated vectors should be 4 times as long as the original embeddings
     and shape is (sent_num, feature_dim)
     '''
-    return torch.cat([vector1, vector2, np.abs(vector1-vector2), np.multiply(vector1, vector2)], axis=1) #
+    return torch.cat([vector1, vector2, np.abs(vector1-vector2), np.multiply(vector1, vector2)], axis=1)
 
+# np.abs(vector1-vector2), np.multiply(vector1, vector2)
 
 def load_all_data(lang, iftest):
     lang_data = defaultdict(dict)
