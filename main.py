@@ -15,12 +15,12 @@ hyper_config = {"dev_batch_size": Dev_batch_size, "epoch": epochs, "learning_rat
                 "dropout": Dropout, "md_lyr": LAYER}
 
 # training English classifier
-# all_en_data = load_all_data("en", IFTEST)
-# for lr in Learning_rate:
-#     for drp in Dropout:
-#         classifier = EnClassifier(all_en_data["train_ebd"], all_en_data["train_label"], LAYER, lr, drp,
-#                                   N_EPOCHS=Max_epoch_times, train_batch_size=32)
-#         classifier.training()
+all_en_data = load_all_data("en", IFTEST)
+for lr in Learning_rate:
+    for drp in Dropout:
+        classifier = EnClassifier(all_en_data["train_ebd"], all_en_data["train_label"], LAYER, lr, drp,
+                                  N_EPOCHS=Max_epoch_times, train_batch_size=32)
+        classifier.training()
 
 # select hyper-parameters on each language dataset
 parameter_selection = defaultdict(dict)
